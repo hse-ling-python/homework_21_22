@@ -111,7 +111,7 @@ m = Mystem(mystem_bin="D:\\mystem.exe")
 
 <table>
     <tr><td>Группа 1</td><td><a href="https://classroom.github.com/a/VqSewnKe">ссылка</a></td></tr>
-    <tr><td>Группа 2</td><td>ссылка</td></td></tr>
+    <tr><td>Группа 2</td><td><a href="https://classroom.github.com/a/4QakLMc7">ссылка</a></td></td></tr>
     <tr><td>Группа 3</td><td>ссылка</td></td></tr>    
-    <tr><td>Группа 4</td><td>ссылка</td></td></tr>    
+    <tr><td>Группа 4</td><td><a href="https://classroom.github.com/a/6zuE69xG">ссылка</a></td></td></tr>    
 </table>
