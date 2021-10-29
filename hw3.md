@@ -71,10 +71,10 @@
 
 **Ссылки на GiHub Classroom:**
 
-Группа 201 -- 
+[Группа 201](https://classroom.github.com/a/zJ_aC1ZY)
 
-Группа 202 -- 
+[Группа 202](https://classroom.github.com/a/QhQDne56) 
 
-Группа 203 -- 
+[Группа 203](https://classroom.github.com/a/9rbI4Ncn) 
 
-Группа 204 -- 
+[Группа 204](https://classroom.github.com/a/drlwipuH) 
