@@ -59,3 +59,11 @@ Cтарайтесь максимально решить задачу в запр
 5. Каких данных (с сайта или просто придумать свои) не хватает в базе?
 
 Для рисования есть разные онлайн-инструменты или приложения (например, https://app.diagrams.net/), но можно и на бумажке.
+
+[201](https://classroom.github.com/a/Jo0n6hH9)
+
+[202](https://classroom.github.com/a/9uajzCDf)
+
+[203](https://classroom.github.com/a/MMZtn_il)
+
+[204](https://classroom.github.com/a/6pR34dt6)
