@@ -10,7 +10,7 @@
 
 ### Данные
 
-База данных фильмов IMDB (здесь будет ссылка)
+База данных фильмов IMDB ([imdb_small_indexed.db](https://disk.yandex.ru/d/GOxdLhob7et7Hw?w=1))
 
 ### Задание
 
