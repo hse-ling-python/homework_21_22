@@ -71,10 +71,10 @@
 
 **Ссылки на GiHub Classroom:**
 
-[201]()
+[201](https://classroom.github.com/a/quHBy8en)
 
-[202]()
+[202](https://classroom.github.com/a/Qjky_blM)
 
-[203]()
+[203](https://classroom.github.com/a/72TwUxch)
 
-[204]()
+[204](https://classroom.github.com/a/PxqZpW-w)
