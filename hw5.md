@@ -14,7 +14,7 @@
 
 **Данные**
 
-Надо записаться в таблицу, чтобы ваши газеты не повторялись: [таблица](https://docs.google.com/spreadsheets/d/1lahdkmQuncQc9y0jPY2cjjYgnYP5XYERXQ_L-cs9gG4/edit?usp=sharing)
+Надо записаться в таблицу, чтобы ваши газеты не повторялись: [таблица](https://docs.google.com/spreadsheets/d/124v-PqwLM2UQPjYJtOCgZ48IqRgBxTZlaTzxShHjOB8/edit?usp=sharing)
 
 **Совет по выбору**
 
